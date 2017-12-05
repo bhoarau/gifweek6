@@ -1,0 +1,9 @@
+body{
+    background-image: url('../images/nba.jpg');
+    margin-top: 40px;
+}
+button {
+    background: red;
+    margin-left: 15px;    
+}
+
